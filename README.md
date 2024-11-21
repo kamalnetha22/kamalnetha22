@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-Here is the updated overview with the side headings highlighted:
-
----
 
 **I’m Lakshmi Sri Kamal Kuturu**, a Master’s student in Computer Science with a strong passion for Machine Learning, Cybersecurity, Data Science, and Cryptography. I enjoy solving complex problems and continuously exploring new technologies. Currently, I am seeking internship opportunities in these fields to further develop my skills.
 
@@ -45,6 +42,3 @@ Here is the updated overview with the side headings highlighted:
 - **Email**: kamalkls022@gmail.com  
 - **Phone**: +1 9132804827  
 
----
-
-This version highlights all the side headings for better organization and visibility.
